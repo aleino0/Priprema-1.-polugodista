@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\bin\Debug\Priprema_varijable3.exe.config
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\bin\Debug\Priprema_varijable3.exe
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\bin\Debug\Priprema_varijable3.pdb
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\obj\Debug\Priprema_varijable3.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\obj\Debug\Priprema_varijable3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\obj\Debug\Priprema_varijable3.exe
+C:\Users\ucenik\source\repos\Priprema_varijable3\Priprema_varijable3\obj\Debug\Priprema_varijable3.pdb
